@@ -1,4 +1,4 @@
-# Federated Learning Project
+# Federated Learning Project - Human Activities Recognition
 
 - Siddhant Jaiswal
 - Tejaswita Som
